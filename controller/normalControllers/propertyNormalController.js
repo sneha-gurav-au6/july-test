@@ -27,7 +27,7 @@ module.exports = {
         property_img: propertyDetails.image,
         property_rent: propertyDetails.description,
         property_deposit: propertyDetails.privacy_status,
-        property_loction: propertyDetails.user,
+        // property_loction: propertyDetails.user,
       };
       property.push(propertys);
 
